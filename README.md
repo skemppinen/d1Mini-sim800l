@@ -8,6 +8,7 @@
 3. Connect d1Mini D1 to SIM800l RXD
 4. Connect d1Mini D2 to SIM800l TXD
 5. Connect d1Mini GND to Sim800l V2 TTL GND
+6. Connect d1Mini to PC Via USB = Monitoring & Commands
 
 ##Registering SIM800l to network#
 1. AT+CREG=1
